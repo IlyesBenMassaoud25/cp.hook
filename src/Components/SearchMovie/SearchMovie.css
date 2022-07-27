@@ -1,0 +1,22 @@
+.search-container {
+    margin: 40px 0px;
+    display: flex;
+    justify-content: center;
+    justify-items: baseline;
+  }
+  .search-container input {
+    width: 60%;
+    height: 10%;
+    border-radius: 20px;
+    border: 1px solid rgb(250, 213, 213);
+    color: rgb(163, 114, 114);
+    padding: 8px 0 8px 10px;
+    margin-right: 10px;
+  }
+  .search-container input:focus {
+    outline: 0;
+  }
+  .rating-search {
+    color: #b9b9b6;
+    font-size: 1.5rem;
+  }
